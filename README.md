@@ -9,8 +9,7 @@ Repositório dedicado aos meus estudos de Segurança da Informação, redes e pr
 - Sistemas Linux
 - Laboratórios Práticos e Simulações
 
-## Cursos de Apoio
+## Cursos & Formações
 
-- Santander Bootcamp Cibersegurança - DIO
-- Introduction to Cybersecurity - Cisco Networking Academy
-[Concluído] Introduction to Cybersecurity — Cisco Networking Academy
+- [Em andamento] Santander Bootcamp Cibersegurança - DIO
+- [Concluído] Introduction to Cybersecurity - Cisco Networking Academy
